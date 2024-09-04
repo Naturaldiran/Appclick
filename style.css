@@ -1,0 +1,71 @@
+section {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+}
+
+.login {
+    height: 100vh;
+    width: 500px;
+    background-color: white;
+}
+
+#log {
+    background-color: green;
+    width: 300px;
+    
+}
+.image img{
+    height: 100vh;
+    width: 100%;
+
+}
+
+
+.fa-envelope{
+    position: relative;
+    right: 30px;
+    
+}
+.fa-lock{
+    position: relative;
+    right: 30px;
+}
+
+
+
+
+
+input {
+    border-radius: 5px;
+    border: 2px;
+    
+}
+
+button {
+    border-radius: 5px;
+    border: 2px;
+}
+
+.point {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+
+
+
+
+.app {
+    margin-left: 20px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    
